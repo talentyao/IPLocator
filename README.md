@@ -40,5 +40,5 @@ select * from ips where ip_start <= inet_aton('202.108.22.5') and ip_end >= inet
 
 1. 纯真IP数据库格式详解：http://lumaqq.linuxsir.org/article/qqwry_format_detail.html
 2. ruby程序的实现：https://github.com/hide2/ruby-qqwry
-3. java程序的实现：http://www.ehelper.com.cn/blog/post/java05.html
+3. java程序的实现：https://github.com/talentyao/IPLocator
 4. 纯真IP数据库qqwry.dat更新：http://www.cz88.net/ 右上角有个IP数据库下载，里面的说明文件里说明了更新的方法。
